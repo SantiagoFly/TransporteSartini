@@ -1,0 +1,20 @@
+Agregarle boton para descargar Remitos segun los filtros seleccionados. Listo
+
+Que si le pongo "Facturado Si" en la carga de remito me aparezca para seleccionar una factura de ese cliente el Nro de factura. No se puede
+
+Darle a "Nro remito" formato "xxxx-xxxxxx" que se autocomplete los faltantes con 0 a la izquierda. LISTO
+
+En la carga de nuevos remitos que al apretar "Enter" guarde y te lleve a cargar un nuevo remito. No se PUEDE
+
+Que en los remitos calcule total $ por remito. (Tonelada * precio por Tn). No editable.LISTO 
+
+Agregar filtro "Producto" a "Nueva factura".LISTO 
+
+En "Agegar nueva factura" eliminar "Cliente" o que aparezca autocompletado con el cliente de los remitos seleccionados. LISTO
+
+Al agregar nueva factura que no te permita seleccionar remitos de más de un cliente.LISTO 
+
+Al agregar nueva factura que "Total Facturado" se cargue solo. Suma de $ de cada remito seleccionado.LISTO 
+
+Eliminar "Total cobrado". LISTO 
+
